@@ -1,0 +1,57 @@
+body{
+  background-image: url("https://deyogroup.com/wp-content/uploads/Top_view-1160x700.jpg");
+  background-repeat: repeat-x;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1{
+  color: white;
+}
+input[type=text]{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: #3CBC8D;
+  color: white;
+}
+input[type=number]{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: #3CBC8D;
+  color: white;
+}
+input[type=email]{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: #3CBC8D;
+  color: white;
+}
+textarea{
+  width: 20%;
+  height: 100px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  background-color: #3CBC8D;
+  resize: none;
+  color: white;
+}
+button{
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
